@@ -13,9 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/windowpi/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/windowpi/qr-code-component)
+- Live Site URL: [github-pages](https://windowpi.github.io/qr-code-component/)
 
 ## My process
 
@@ -64,4 +61,4 @@ Also would like to learn how to center a component vertically without doing weir
 ## Author
 
 - Website - [windowpi](https://github.com/windowpi)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/windowpi)
+- Frontend Mentor - [@windowpi](https://www.frontendmentor.io/profile/windowpi)
