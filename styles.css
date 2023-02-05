@@ -4,7 +4,7 @@ body {
   margin-top: 8%;
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 500px) {
   body {
     margin-top: 30%;
   }
@@ -22,7 +22,7 @@ body {
 
 @media screen and (max-width: 500px) {
   .container {
-    width: 150px;
+    width: 250px;
   }
 }
 
