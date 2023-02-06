@@ -1,41 +1,36 @@
 body {
-  background-color: cadetblue;
-  margin: 0 auto;
-  margin-top: 8%;
-}
-
-@media screen and (max-width: 500px) {
-  body {
-    margin-top: 30%;
-  }
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(212, 45%, 89%);
 }
 
 .container {
-  background-color: white;
-  width: 350px;
-  height: auto;
-  border-radius: 45px;
+  background-color: hsl(0, 0%, 100%);
+  max-width: 350px;
+  border-radius: 25px;
   text-align: center;
-  padding: 30px;
-  margin: 0 auto;
-}
-
-@media screen and (max-width: 500px) {
-  .container {
-    width: 250px;
-  }
+  padding: 1.2rem;
 }
 
 .code {
   width: 100%;
-  border-radius: 15px;
+  border-radius: 20px;
 }
 
 .title {
-  font-size: 24px;
+  font-size: 1.6rem;
 }
 
 .content {
-  color: grey;
-  font-size: 18px;
+  color: hsl(220, 15%, 55%);
+  font-size: 1.1rem;
+}
+
+.attribution {
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: 0;
 }
